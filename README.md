@@ -6,11 +6,17 @@
 #The program prompt the users to perform stock management tasks and save changes to the 'inventory.txt' file.
 
 #The management systems supports the following functions:
+
 #1 - View all inventory
+
 #2 - Allowing the user to add a new product into the inventory list
+
 #3 - Allowing the user to search for a product using the product code
+
 #4 - Find the product with the lowest quantity and allowing the user to restock
+
 #5 - Find the product with the highest quantity, suggest to the user that this product could be on sale
+
 #6 - Automatically calculate stock value (cost * quantity) for each product and produce report on screen
 
 #The project is developed on python and does not require installation other than ensuring python is available on your machine
