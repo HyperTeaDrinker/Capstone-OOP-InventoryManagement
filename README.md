@@ -1,4 +1,4 @@
-#OOP-Capstone-Inventory-Management-System
+#Capstone-OOP-InventoryManagement
 
 This is a capstone project on object-oriented programming (OOP) for my software engineering bootcamp.
 
