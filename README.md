@@ -1,4 +1,5 @@
-# finalCapstone
+#OOP-Capstone-Inventory-Management-System
+
 #This is a program of an inventory management system.
 #This is a capstone project on object-oriented programming (OOP) for my software engineering bootcamp.
 
