@@ -1,10 +1,10 @@
-#Capstone-OOP-InventoryManagement
+# Capstone-OOP-InventoryManagement
 
 This is a capstone project on object-oriented programming (OOP) for my software engineering bootcamp.
 
 The program reads in a 'inventory.txt' file with a list of stocks with their product name, code, storing location, cost and quantity. The program prompt the users to perform stock management tasks and save changes to the 'inventory.txt' file.
 
-#The management systems supports the following functions:
+# The management systems supports the following functions:
 
 1 - View all inventory
 
