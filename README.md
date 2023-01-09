@@ -2,7 +2,9 @@
 
 This is a capstone project on object-oriented programming (OOP) for my software engineering bootcamp.
 
-The program reads in a 'inventory.txt' file with a list of stocks with their product name, code, storing location, cost and quantity. The program prompt the users to perform stock management tasks and save changes to the 'inventory.txt' file.
+The program reads in an 'inventory.txt' file with a list of stocks with their product name, code, storing location, cost and quantity. The program prompt the users to perform stock management tasks and save changes to the 'inventory.txt' file.
+
+Special thanks to HyperionDev for providing the software engineering bootcamp
 
 # The inventory management system supports the following functions:
 
@@ -19,5 +21,3 @@ The program reads in a 'inventory.txt' file with a list of stocks with their pro
 6 - Automatically calculate stock value (cost * quantity) for each product and produce report on screen
 
 The project is developed on python and does not require installation other than ensuring python is available on your machine. However, please ensure that the complimentary 'inventory.txt' file is saved to the same directory as the python script.
-
-Special thanks to HyperionDev for providing the software engineering bootcamp
